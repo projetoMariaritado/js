@@ -7,3 +7,7 @@ https://projetoMariaritado.github.io/js/Tabuada1/tabuada.html
  ------------------------------------------------------------
  https://projetoMariaritado.github.io/js/Declaraçao/aula1.html
  ------------------------------------------------------------
+ IMC
+ ------------------------------------------------------------
+  https://projetoMariaritado.github.io/js/imc1/imc.html
+------------------------------------------------------------
