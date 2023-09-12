@@ -11,3 +11,7 @@ https://projetoMariaritado.github.io/js/Tabuada1/tabuada.html
  ------------------------------------------------------------
   https://projetoMariaritado.github.io/js/imc1/imc.html
 ------------------------------------------------------------
+ Funcoes
+ ------------------------------------------------------------
+  https://projetoMariaritado.github.io/js/funcoes/funcoes.html
+------------------------------------------------------------
