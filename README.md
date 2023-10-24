@@ -15,3 +15,7 @@ https://projetoMariaritado.github.io/js/Tabuada1/tabuada.html
  ------------------------------------------------------------
   https://projetoMariaritado.github.io/js/funcoes/funcoes.html
 ------------------------------------------------------------
+Orientaçao
+ ------------------------------------------------------------
+  https://projetoMariaritado.github.io/js/Orientação/Orientação.html
+------------------------------------------------------------
